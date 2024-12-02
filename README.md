@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ariandalyn, a Cloud and Network security Certified.
+- 👋 Hi, I’m Magdaline Arianda, a Cloud and Network security Certified.
 - 👀 I’m interested in web development and cybersecurity 
 - 🌱 I’m currently learning python, Cloud Computing, Linux
 - 💞️ I’m looking to collaborate on projects
